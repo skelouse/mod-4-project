@@ -3,7 +3,7 @@
 
 # Model Selection for Tweet Sentiment Analysis
 
-![output_43_0.png](attachment:/md/output_43_0.png)
+![output_43_0.png](/md/output_43_0.png)
 
 ## This Repository Contains
  -  A Jupyter notebook <a href="https://github.com/skelouse/mod-4-project/blob/master/student.ipynb">`student.ipynb`</a> showing our tweet sentiment analysis
@@ -28,7 +28,7 @@
 
 ### Gradient Boosting Classifier
 
-![output_75_1.png](attachment:/md/output_75_1.png)
+![output_75_1.png](/md/output_75_1.png)
 <div class="shadow alert alert-info">
     <ul><b>From the model:</b>
 <li>Slightly overfitting the training data</li>
@@ -40,7 +40,7 @@
 
 ### Stacking Classifier
 
-![output_109_1.png](attachment:/md/output_109_1.png)
+![output_109_1.png](/md/output_109_1.png)
 
 <div class="shadow alert alert-info">
     <ul><b>From the model:</b>
