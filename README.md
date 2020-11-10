@@ -96,8 +96,3 @@
 |      .png files of all graphs
 
 ```
-
-
-```python
-
-```
