@@ -11,9 +11,9 @@
  - A PowerPoint <a href="https://github.com/skelouse/mod-4-project/blob/master/presentation.pdf">presentation</a> of the data
 
 ## Questions
-> * Which model will perform best?
-> * How well will a model perform?
-> * What can androids or iphones improve in their products to reduce negative feedback?
+ * Which model will perform best?
+ * How well will a model perform?
+ * What can androids or iphones improve in their products to reduce negative feedback?
 
 ## Using the OSEMN Process
 - Obtain the data
@@ -70,9 +70,9 @@
 >    * Ease of use
 
 ## Next Steps
-> * Build an sklearn pipeline with and grid search with the tokenizer and vectorizer parameters along with the parameters for each of the classifiers.
-> * Build neural networks for the data, using [Oscar](http://oscar.calldesk.ai/) for hyperparameter tuning
-> * More tuning on the above models
+ * Build an sklearn pipeline with and grid search with the tokenizer and vectorizer parameters along with the parameters for each of the classifiers.
+ * Build neural networks for the data, using [Oscar](http://oscar.calldesk.ai/) for hyperparameter tuning
+ * More tuning on the above models
 
 ## Repository Structure
 
